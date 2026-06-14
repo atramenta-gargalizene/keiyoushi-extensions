@@ -4,6 +4,8 @@
 
 This repository is a curated, filtered distribution of [keiyoushi/extensions](https://github.com/keiyoushi/extensions). It excludes extension categories that are narrow in scope, redundant with an existing source, intended only as fallback mirrors, duplicate sources already available through English-only extensions, or require paid access.
 
+This catalog also excludes the high-confidence removals applied from the 2026-06-14 audit; medium-confidence audit candidates remain pending review and are not excluded solely on that basis.
+
 Excluded categories include:
 
 - Single-title or single-work sources.
