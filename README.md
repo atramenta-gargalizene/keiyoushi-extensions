@@ -1,5 +1,17 @@
 # Keiyoushi Extensions
 
+## About this repository
+
+This repository is a curated, filtered distribution of [keiyoushi/extensions](https://github.com/keiyoushi/extensions). It excludes extension categories that are narrow in scope, redundant with an existing source, intended only as fallback mirrors, duplicate sources already available through English-only extensions, or require paid access.
+
+Excluded categories include:
+
+- Single-title or single-work sources.
+- Source clones that duplicate another extension's underlying site.
+- Secondary fallback sites for sources already covered by another extension.
+- Multilingual variants when an English-only extension for the same source is available.
+- Paid sources, including sources that offer limited free access.
+
 ### Please give the repo a :star:
 
 | Build | Need Help? |
