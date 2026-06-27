@@ -665,6 +665,74 @@
       ]
     },
     {
+      "name": "Comikey",
+      "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.comikey-v1.4.7.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comikey.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 7,
+      "versionName": "1.4.7",
+      "sources": [
+        {
+          "id": "2769857481066602061",
+          "name": "Comikey",
+          "language": "en",
+          "homeUrl": "https://comikey.com"
+        },
+        {
+          "id": "374080003312345029",
+          "name": "Comikey",
+          "language": "es",
+          "homeUrl": "https://comikey.com"
+        },
+        {
+          "id": "1684620622390751911",
+          "name": "Comikey",
+          "language": "id",
+          "homeUrl": "https://comikey.com"
+        },
+        {
+          "id": "4174862482785095737",
+          "name": "Comikey",
+          "language": "pt-BR",
+          "homeUrl": "https://comikey.com"
+        },
+        {
+          "id": "4923846262931005728",
+          "name": "Comikey Brasil",
+          "language": "pt-BR",
+          "homeUrl": "https://br.comikey.com"
+        }
+      ]
+    },
+    {
+      "name": "Commit Strip",
+      "packageName": "eu.kanade.tachiyomi.extension.all.commitstrip",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.commitstrip-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.commitstrip.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "5328240584854276436",
+          "name": "Commit Strip",
+          "language": "en",
+          "homeUrl": "https://www.commitstrip.com"
+        },
+        {
+          "id": "4187575309418573632",
+          "name": "Commit Strip",
+          "language": "fr",
+          "homeUrl": "https://www.commitstrip.com"
+        }
+      ]
+    },
+    {
       "name": "Coomer",
       "packageName": "eu.kanade.tachiyomi.extension.all.coomer",
       "resources": {
@@ -681,6 +749,31 @@
           "language": "all",
           "homeUrl": "https://coomer.st",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Corona EX",
+      "packageName": "eu.kanade.tachiyomi.extension.all.coronaex",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.coronaex-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.coronaex.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "4760608706245794364",
+          "name": "Corona EX",
+          "language": "ja",
+          "homeUrl": "https://to-corona-ex.com"
+        },
+        {
+          "id": "8608333040792766579",
+          "name": "Corona EX",
+          "language": "en",
+          "homeUrl": "https://en.to-corona-ex.com"
         }
       ]
     },
@@ -1071,6 +1164,26 @@
       ]
     },
     {
+      "name": "EveriaClub (unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.all.everiaclubcom",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.everiaclubcom-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.everiaclubcom.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "8698756602692547891",
+          "name": "EveriaClub (unoriginal)",
+          "language": "all",
+          "homeUrl": "https://www.everiaclub.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Femjoy Hunter",
       "packageName": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
       "resources": {
@@ -1165,6 +1278,306 @@
           "name": "FTV Hunter",
           "language": "all",
           "homeUrl": "https://www.ftvhunter.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "GlobalComix",
+      "packageName": "eu.kanade.tachiyomi.extension.all.globalcomix",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.globalcomix-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.globalcomix.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "3356591153022230079",
+          "name": "GlobalComix",
+          "language": "sq",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1187989220698209376",
+          "name": "GlobalComix",
+          "language": "ar",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6787452093863347937",
+          "name": "GlobalComix",
+          "language": "bg",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1751301957307147711",
+          "name": "GlobalComix",
+          "language": "bn",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6857041228017945908",
+          "name": "GlobalComix",
+          "language": "pt-BR",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7151191693036508367",
+          "name": "GlobalComix",
+          "language": "zh-Hans",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4590681486679254754",
+          "name": "GlobalComix",
+          "language": "cs",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8246492784517686839",
+          "name": "GlobalComix",
+          "language": "de",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5048347663546425663",
+          "name": "GlobalComix",
+          "language": "da",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5023036788669530148",
+          "name": "GlobalComix",
+          "language": "el",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1702911211040495914",
+          "name": "GlobalComix",
+          "language": "en",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4898409906840499301",
+          "name": "GlobalComix",
+          "language": "es",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3091586499988578585",
+          "name": "GlobalComix",
+          "language": "fa",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8293773554510083311",
+          "name": "GlobalComix",
+          "language": "fi",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7193534094270200605",
+          "name": "GlobalComix",
+          "language": "fil",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1331353277450289630",
+          "name": "GlobalComix",
+          "language": "fr",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7833228326192857667",
+          "name": "GlobalComix",
+          "language": "hi",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1139058264127464070",
+          "name": "GlobalComix",
+          "language": "hu",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5793414625714246782",
+          "name": "GlobalComix",
+          "language": "id",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "680772027911898954",
+          "name": "GlobalComix",
+          "language": "it",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4966216283610323571",
+          "name": "GlobalComix",
+          "language": "he",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5239712539549115551",
+          "name": "GlobalComix",
+          "language": "ja",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7082086175158655309",
+          "name": "GlobalComix",
+          "language": "ko",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "857003208346192351",
+          "name": "GlobalComix",
+          "language": "lv",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4045163592638299384",
+          "name": "GlobalComix",
+          "language": "ms",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8660336682320212854",
+          "name": "GlobalComix",
+          "language": "nl",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1325846979854909240",
+          "name": "GlobalComix",
+          "language": "no",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "9036722702118837888",
+          "name": "GlobalComix",
+          "language": "pl",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1914303745574265340",
+          "name": "GlobalComix",
+          "language": "pt",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "868801900692890109",
+          "name": "GlobalComix",
+          "language": "ro",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8611257855285214680",
+          "name": "GlobalComix",
+          "language": "ru",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3631246013481179045",
+          "name": "GlobalComix",
+          "language": "sv",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3295788255356719804",
+          "name": "GlobalComix",
+          "language": "sk",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1644770244825001357",
+          "name": "GlobalComix",
+          "language": "sl",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "5543642209942020458",
+          "name": "GlobalComix",
+          "language": "ta",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7868281684851943971",
+          "name": "GlobalComix",
+          "language": "th",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2641311214423625823",
+          "name": "GlobalComix",
+          "language": "tr",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1335726222164693622",
+          "name": "GlobalComix",
+          "language": "uk",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2272106648760140404",
+          "name": "GlobalComix",
+          "language": "ur",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6987743887369255757",
+          "name": "GlobalComix",
+          "language": "vi",
+          "homeUrl": "https://globalcomix.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3451257781273481191",
+          "name": "GlobalComix",
+          "language": "zh-Hant",
+          "homeUrl": "https://globalcomix.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -2228,6 +2641,31 @@
       ]
     },
     {
+      "name": "izneo (webtoons)",
+      "packageName": "eu.kanade.tachiyomi.extension.all.izneo",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.izneo-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.izneo.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "7160867804476891075",
+          "name": "izneo",
+          "language": "en",
+          "homeUrl": "https://www.izneo.com/en/webtoon"
+        },
+        {
+          "id": "1002111777562806129",
+          "name": "izneo",
+          "language": "fr",
+          "homeUrl": "https://www.izneo.com/fr/webtoon"
+        }
+      ]
+    },
+    {
       "name": "JJCOS",
       "packageName": "eu.kanade.tachiyomi.extension.all.jjcos",
       "resources": {
@@ -2576,6 +3014,115 @@
           "name": "LANraragi (2)",
           "language": "all",
           "homeUrl": "http://127.0.0.1:3000"
+        }
+      ]
+    },
+    {
+      "name": "League of Legends",
+      "packageName": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.leagueoflegends-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.leagueoflegends.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "5421383187922044761",
+          "name": "League of Legends",
+          "language": "en",
+          "homeUrl": "https://universe.leagueoflegends.com/en_us/comic/"
+        },
+        {
+          "id": "380479987909263478",
+          "name": "League of Legends",
+          "language": "de",
+          "homeUrl": "https://universe.leagueoflegends.com/de_de/comic/"
+        },
+        {
+          "id": "2505034801993260082",
+          "name": "League of Legends",
+          "language": "es",
+          "homeUrl": "https://universe.leagueoflegends.com/es_es/comic/"
+        },
+        {
+          "id": "8921189687191630727",
+          "name": "League of Legends",
+          "language": "fr",
+          "homeUrl": "https://universe.leagueoflegends.com/fr_fr/comic/"
+        },
+        {
+          "id": "2993141237027207546",
+          "name": "League of Legends",
+          "language": "it",
+          "homeUrl": "https://universe.leagueoflegends.com/it_it/comic/"
+        },
+        {
+          "id": "4102855915741272173",
+          "name": "League of Legends",
+          "language": "pl",
+          "homeUrl": "https://universe.leagueoflegends.com/pl_pl/comic/"
+        },
+        {
+          "id": "3431750855616467337",
+          "name": "League of Legends",
+          "language": "el",
+          "homeUrl": "https://universe.leagueoflegends.com/el_gr/comic/"
+        },
+        {
+          "id": "8175862906648984382",
+          "name": "League of Legends",
+          "language": "ro",
+          "homeUrl": "https://universe.leagueoflegends.com/ro_ro/comic/"
+        },
+        {
+          "id": "8553752347472368081",
+          "name": "League of Legends",
+          "language": "hu",
+          "homeUrl": "https://universe.leagueoflegends.com/hu_hu/comic/"
+        },
+        {
+          "id": "241129525014815798",
+          "name": "League of Legends",
+          "language": "cs",
+          "homeUrl": "https://universe.leagueoflegends.com/cs_cz/comic/"
+        },
+        {
+          "id": "3236903197935016602",
+          "name": "League of Legends",
+          "language": "es-419",
+          "homeUrl": "https://universe.leagueoflegends.com/es_mx/comic/"
+        },
+        {
+          "id": "7646731134152168219",
+          "name": "League of Legends",
+          "language": "pt-BR",
+          "homeUrl": "https://universe.leagueoflegends.com/pt_br/comic/"
+        },
+        {
+          "id": "1617144019668124895",
+          "name": "League of Legends",
+          "language": "ja",
+          "homeUrl": "https://universe.leagueoflegends.com/ja_jp/comic/"
+        },
+        {
+          "id": "6359895141227528344",
+          "name": "League of Legends",
+          "language": "ru",
+          "homeUrl": "https://universe.leagueoflegends.com/ru_ru/comic/"
+        },
+        {
+          "id": "4983763186502997670",
+          "name": "League of Legends",
+          "language": "tr",
+          "homeUrl": "https://universe.leagueoflegends.com/tr_tr/comic/"
+        },
+        {
+          "id": "1822275077186160208",
+          "name": "League of Legends",
+          "language": "ko",
+          "homeUrl": "https://universe.leagueoflegends.com/ko_kr/comic/"
         }
       ]
     },
@@ -4065,6 +4612,25 @@
       ]
     },
     {
+      "name": "Manga UP!",
+      "packageName": "eu.kanade.tachiyomi.extension.all.mangaup",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.mangaup-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mangaup.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "7689478295161479290",
+          "name": "Manga UP!",
+          "language": "en",
+          "homeUrl": "https://global.manga-up.com"
+        }
+      ]
+    },
+    {
       "name": "Mango",
       "packageName": "eu.kanade.tachiyomi.extension.all.mango",
       "resources": {
@@ -4268,6 +4834,33 @@
           "name": "Manhwa-raw",
           "language": "all",
           "homeUrl": "https://manhwa-raw.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Manta Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.all.manta",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.manta-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manta.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "8753096034341798862",
+          "name": "Manta",
+          "language": "en",
+          "homeUrl": "https://manta.net/en",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2857546552946901153",
+          "name": "Manta",
+          "language": "es",
+          "homeUrl": "https://manta.net/es",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -4968,6 +5561,130 @@
       ]
     },
     {
+      "name": "Niadd",
+      "packageName": "eu.kanade.tachiyomi.extension.all.niadd",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.niadd-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.niadd.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "7623485147777438032",
+          "name": "Niadd",
+          "language": "pt-BR",
+          "homeUrl": "https://br.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6237269852978906906",
+          "name": "Niadd",
+          "language": "en",
+          "homeUrl": "https://www.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1369970040009723082",
+          "name": "Niadd",
+          "language": "es",
+          "homeUrl": "https://es.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8223107200339513324",
+          "name": "Niadd",
+          "language": "it",
+          "homeUrl": "https://it.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1044418267385230402",
+          "name": "Niadd",
+          "language": "ru",
+          "homeUrl": "https://ru.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "3358885026101433827",
+          "name": "Niadd",
+          "language": "de",
+          "homeUrl": "https://de.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2892666872128744723",
+          "name": "Niadd",
+          "language": "fr",
+          "homeUrl": "https://fr.niadd.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "NovelCool",
+      "packageName": "eu.kanade.tachiyomi.extension.all.novelcool",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.novelcool-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.novelcool.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "7570101320206504111",
+          "name": "NovelCool",
+          "language": "en",
+          "homeUrl": "https://www.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "438359803442833644",
+          "name": "NovelCool",
+          "language": "es",
+          "homeUrl": "https://es.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4806085996472938237",
+          "name": "NovelCool",
+          "language": "de",
+          "homeUrl": "https://de.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2000643041937250352",
+          "name": "NovelCool",
+          "language": "ru",
+          "homeUrl": "https://ru.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1430309870605719983",
+          "name": "NovelCool",
+          "language": "it",
+          "homeUrl": "https://it.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2431307934077353736",
+          "name": "NovelCool",
+          "language": "pt-BR",
+          "homeUrl": "https://br.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "1619259951234748770",
+          "name": "NovelCool",
+          "language": "fr",
+          "homeUrl": "https://fr.novelcool.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "One Piece Fans",
       "packageName": "eu.kanade.tachiyomi.extension.all.onepiecefans",
       "resources": {
@@ -5166,6 +5883,25 @@
       ]
     },
     {
+      "name": "Pepper&Carrot",
+      "packageName": "eu.kanade.tachiyomi.extension.all.peppercarrot",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.peppercarrot-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.peppercarrot.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "279282683217001983",
+          "name": "Pepper&Carrot",
+          "language": "all",
+          "homeUrl": "https://www.peppercarrot.com"
+        }
+      ]
+    },
+    {
       "name": "Photos18",
       "packageName": "eu.kanade.tachiyomi.extension.all.photos18",
       "resources": {
@@ -5340,6 +6076,58 @@
       ]
     },
     {
+      "name": "Sandra and Woo",
+      "packageName": "eu.kanade.tachiyomi.extension.all.sandraandwoo",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.sandraandwoo-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.sandraandwoo.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "8111958912268118735",
+          "name": "Sandra und Woo",
+          "language": "de",
+          "homeUrl": "https://www.sandraandwoo.com"
+        },
+        {
+          "id": "8566345145646340492",
+          "name": "Sandra and Woo",
+          "language": "en",
+          "homeUrl": "https://www.sandraandwoo.com"
+        }
+      ]
+    },
+    {
+      "name": "SeraphicDeviltry",
+      "packageName": "eu.kanade.tachiyomi.extension.all.seraphicdeviltry",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.seraphicdeviltry-v1.4.53.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.seraphicdeviltry.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 53,
+      "versionName": "1.4.53",
+      "sources": [
+        {
+          "id": "5395306515630347602",
+          "name": "SeraphicDeviltry",
+          "language": "en",
+          "homeUrl": "https://seraphic-deviltry.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6626112947749020527",
+          "name": "SeraphicDeviltry",
+          "language": "es",
+          "homeUrl": "https://spanish.seraphic-deviltry.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Simply Cosplay",
       "packageName": "eu.kanade.tachiyomi.extension.all.simplycosplay",
       "resources": {
@@ -5482,6 +6270,40 @@
       ]
     },
     {
+      "name": "Tappytoon",
+      "packageName": "eu.kanade.tachiyomi.extension.all.tappytoon",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.tappytoon-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.tappytoon.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "7049142072741547166",
+          "name": "Tappytoon",
+          "language": "en",
+          "homeUrl": "https://www.tappytoon.com/en",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8311223969496865438",
+          "name": "Tappytoon",
+          "language": "fr",
+          "homeUrl": "https://www.tappytoon.com/fr",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "8708489334089410870",
+          "name": "Tappytoon",
+          "language": "de",
+          "homeUrl": "https://www.tappytoon.com/de",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "The Library of Ohara",
       "packageName": "eu.kanade.tachiyomi.extension.all.thelibraryofohara",
       "resources": {
@@ -5527,6 +6349,107 @@
           "name": "The Library of Ohara",
           "language": "fr",
           "homeUrl": "https://thelibraryofohara.com"
+        }
+      ]
+    },
+    {
+      "name": "Thunder Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.44.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 44,
+      "versionName": "1.4.44",
+      "sources": [
+        {
+          "id": "3209001028102012989",
+          "name": "Lava Scans",
+          "language": "ar",
+          "homeUrl": "https://lavascans.com"
+        },
+        {
+          "id": "2848420679472350044",
+          "name": "Thunder Scans",
+          "language": "en",
+          "homeUrl": "https://en-thunderscans.com"
+        }
+      ]
+    },
+    {
+      "name": "Toomics",
+      "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.toomics-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.toomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "7004582542854505662",
+          "name": "Toomics (Only free chapters)",
+          "language": "en",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2191753978421234924",
+          "name": "Toomics (Only free chapters)",
+          "language": "zh-Hans",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "371640888113435809",
+          "name": "Toomics (Only free chapters)",
+          "language": "zh-Hant",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7362369816539610504",
+          "name": "Toomics (Only free chapters)",
+          "language": "es-419",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4863693274136077953",
+          "name": "Toomics (Only free chapters)",
+          "language": "es",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "7652402685655897221",
+          "name": "Toomics (Only free chapters)",
+          "language": "it",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4230797637510582729",
+          "name": "Toomics (Only free chapters)",
+          "language": "de",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "2289891939341407590",
+          "name": "Toomics (Only free chapters)",
+          "language": "fr",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4488498756724948818",
+          "name": "Toomics (Only free chapters)",
+          "language": "pt-BR",
+          "homeUrl": "https://global.toomics.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -5730,7 +6653,7 @@
       "sources": [
         {
           "id": "2870097240566002663",
-          "name": "性感美女",
+          "name": "\u6027\u611f\u7f8e\u5973",
           "language": "all",
           "homeUrl": "http://xgmn8.vip",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -5774,6 +6697,49 @@
           "language": "all",
           "homeUrl": "https://xiutaku.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "xkcd",
+      "packageName": "eu.kanade.tachiyomi.extension.all.xkcd",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.xkcd-v1.4.16.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xkcd.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 16,
+      "versionName": "1.4.16",
+      "sources": [
+        {
+          "id": "1538249443376436084",
+          "name": "xkcd",
+          "language": "en",
+          "homeUrl": "https://xkcd.com"
+        },
+        {
+          "id": "6901469937775055420",
+          "name": "xkcd",
+          "language": "es",
+          "homeUrl": "https://es.xkcd.com"
+        },
+        {
+          "id": "8162821425156695837",
+          "name": "xkcd",
+          "language": "zh",
+          "homeUrl": "https://xkcd.tw"
+        },
+        {
+          "id": "987306860406766740",
+          "name": "xkcd",
+          "language": "fr",
+          "homeUrl": "https://xkcd.lapin.org"
+        },
+        {
+          "id": "3742763978853704441",
+          "name": "xkcd",
+          "language": "ru",
+          "homeUrl": "https://xkcd.ru"
         }
       ]
     },
@@ -5830,7 +6796,7 @@
       "sources": [
         {
           "id": "170542391855030753",
-          "name": "小黄书",
+          "name": "\u5c0f\u9ec4\u4e66",
           "language": "all",
           "homeUrl": "https://en.xchina.co",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -5894,7 +6860,7 @@
       "sources": [
         {
           "id": "3472625749271868375",
-          "name": "هنتاي العرب",
+          "name": "\u0647\u0646\u062a\u0627\u064a \u0627\u0644\u0639\u0631\u0628",
           "language": "ar",
           "homeUrl": "https://arabshentai.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -5914,7 +6880,7 @@
       "sources": [
         {
           "id": "2424761902286195560",
-          "name": "عرب تونز",
+          "name": "\u0639\u0631\u0628 \u062a\u0648\u0646\u0632",
           "language": "ar",
           "homeUrl": "https://arabtoons.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -5954,7 +6920,7 @@
       "sources": [
         {
           "id": "8112280317896333809",
-          "name": "أريا مانجا",
+          "name": "\u0623\u0631\u064a\u0627 \u0645\u0627\u0646\u062c\u0627",
           "language": "ar",
           "homeUrl": "https://ar.kenmanga.com"
         }
@@ -6068,7 +7034,7 @@
       "sources": [
         {
           "id": "5702082694566979718",
-          "name": "شبكة كونان العربية",
+          "name": "\u0634\u0628\u0643\u0629 \u0643\u0648\u0646\u0627\u0646 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
           "language": "ar",
           "homeUrl": "https://manga.detectiveconanar.com"
         }
@@ -6186,7 +7152,7 @@
       "sources": [
         {
           "id": "1383489648660567366",
-          "name": "هنتاي سلاير",
+          "name": "\u0647\u0646\u062a\u0627\u064a \u0633\u0644\u0627\u064a\u0631",
           "language": "ar",
           "homeUrl": "https://hentaislayer.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -6263,7 +7229,7 @@
       "sources": [
         {
           "id": "1073624495230267708",
-          "name": "مانجا العاشق",
+          "name": "\u0645\u0627\u0646\u062c\u0627 \u0627\u0644\u0639\u0627\u0634\u0642",
           "language": "ar",
           "homeUrl": "https://3asq.org"
         }
@@ -6321,7 +7287,7 @@
       "sources": [
         {
           "id": "918460697583900080",
-          "name": "مانجا ليك",
+          "name": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0643",
           "language": "ar",
           "homeUrl": "https://lekmanga.net#, https://lekmanga.online#, https://like-manga.net#, https://lekmanga.site#, https://manga-leko.site"
         }
@@ -6340,7 +7306,7 @@
       "sources": [
         {
           "id": "3568795724496898351",
-          "name": "مانجا لينك",
+          "name": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0646\u0643",
           "language": "ar",
           "homeUrl": "https://link-manga.net"
         }
@@ -6589,7 +7555,7 @@
       "sources": [
         {
           "id": "335499577904379512",
-          "name": "مانجا اون لاين",
+          "name": "\u0645\u0627\u0646\u062c\u0627 \u0627\u0648\u0646 \u0644\u0627\u064a\u0646",
           "language": "ar",
           "homeUrl": "https://onma.me"
         }
@@ -7101,6 +8067,25 @@
       ]
     },
     {
+      "name": "Art Lapsa",
+      "packageName": "eu.kanade.tachiyomi.extension.en.artlapsa",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.artlapsa-v1.4.25.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.artlapsa.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 25,
+      "versionName": "1.4.25",
+      "sources": [
+        {
+          "id": "734404203508686053",
+          "name": "Art Lapsa",
+          "language": "en",
+          "homeUrl": "https://artlapsa.com"
+        }
+      ]
+    },
+    {
       "name": "Arven Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.arvencomics",
       "resources": {
@@ -7116,6 +8101,25 @@
           "name": "Arven Scans",
           "language": "en",
           "homeUrl": "https://arvencomics.com"
+        }
+      ]
+    },
+    {
+      "name": "Vortex Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.arvenscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.arvenscans-v1.4.61.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.arvenscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 61,
+      "versionName": "1.4.61",
+      "sources": [
+        {
+          "id": "2559570015828016575",
+          "name": "Vortex Scans",
+          "language": "en",
+          "homeUrl": "https://vortexscans.org"
         }
       ]
     },
@@ -7197,6 +8201,25 @@
       ]
     },
     {
+      "name": "Asura Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.asurascans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.asurascans-v1.4.62.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.asurascans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 62,
+      "versionName": "1.4.62",
+      "sources": [
+        {
+          "id": "6247824327199706550",
+          "name": "Asura Scans",
+          "language": "en",
+          "homeUrl": "https://asurascans.com"
+        }
+      ]
+    },
+    {
       "name": "Athrea Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.athreascans",
       "resources": {
@@ -7237,6 +8260,25 @@
       ]
     },
     {
+      "name": "aurora",
+      "packageName": "eu.kanade.tachiyomi.extension.en.aurora",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.aurora-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.aurora.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "9148518200946142514",
+          "name": "Aurora",
+          "language": "en",
+          "homeUrl": "https://comicaurora.com"
+        }
+      ]
+    },
+    {
       "name": "azComic",
       "packageName": "eu.kanade.tachiyomi.extension.en.azcomic",
       "resources": {
@@ -7252,6 +8294,26 @@
           "name": "azComic",
           "language": "en",
           "homeUrl": "https://azcomic.com"
+        }
+      ]
+    },
+    {
+      "name": "Omoi",
+      "packageName": "eu.kanade.tachiyomi.extension.en.azuki",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.azuki-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.azuki.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "8195282477201261072",
+          "name": "Omoi",
+          "language": "en",
+          "homeUrl": "https://www.omoi.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -7313,6 +8375,25 @@
       ]
     },
     {
+      "name": "Battle In 5 Seconds After Meeting",
+      "packageName": "eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.battleinfivesecondsaftermeeting-v1.4.51.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 51,
+      "versionName": "1.4.51",
+      "sources": [
+        {
+          "id": "2529980242070778875",
+          "name": "Battle In 5 Seconds After Meeting",
+          "language": "en",
+          "homeUrl": "https://www.deatte5.com"
+        }
+      ]
+    },
+    {
       "name": "Bbato",
       "packageName": "eu.kanade.tachiyomi.extension.en.bbato",
       "resources": {
@@ -7348,6 +8429,26 @@
           "name": "BeeHentai",
           "language": "en",
           "homeUrl": "https://beehentai.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "BookWalker",
+      "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.bookwalker-v1.4.6.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.bookwalker.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 6,
+      "versionName": "1.4.6",
+      "sources": [
+        {
+          "id": "2744810059574599668",
+          "name": "BookWalker",
+          "language": "en",
+          "homeUrl": "https://bookwalker.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -7765,7 +8866,7 @@
       ]
     },
     {
-      "name": "Danke fürs Lesen",
+      "name": "Danke f\u00fcrs Lesen",
       "packageName": "eu.kanade.tachiyomi.extension.en.dankefurslesen",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.dankefurslesen-v1.4.7.apk",
@@ -7777,10 +8878,67 @@
       "sources": [
         {
           "id": "370316150648855996",
-          "name": "Danke fürs Lesen",
+          "name": "Danke f\u00fcrs Lesen",
           "language": "en",
           "homeUrl": "https://danke.moe",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Dark Legacy Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.darklegacycomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darklegacycomics-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darklegacycomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "1650720534254409337",
+          "name": "Dark Legacy Comics",
+          "language": "en",
+          "homeUrl": "https://www.darklegacycomics.com"
+        }
+      ]
+    },
+    {
+      "name": "Dark Science",
+      "packageName": "eu.kanade.tachiyomi.extension.en.darkscience",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darkscience-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darkscience.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "2059482759352416637",
+          "name": "Dark Science",
+          "language": "en",
+          "homeUrl": "https://dresdencodak.com"
+        }
+      ]
+    },
+    {
+      "name": "Darths & Droids",
+      "packageName": "eu.kanade.tachiyomi.extension.en.darthsdroids",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.darthsdroids-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.darthsdroids.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "1395072850055110585",
+          "name": "Darths & Droids",
+          "language": "en",
+          "homeUrl": "https://www.darthsanddroids.net"
         }
       ]
     },
@@ -7941,6 +9099,25 @@
       ]
     },
     {
+      "name": "Drake Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.drakescans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.drakescans-v1.4.48.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.drakescans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 48,
+      "versionName": "1.4.48",
+      "sources": [
+        {
+          "id": "8284219650954312474",
+          "name": "Drake Scans",
+          "language": "en",
+          "homeUrl": "https://drakecomic.org"
+        }
+      ]
+    },
+    {
       "name": "Dynasty",
       "packageName": "eu.kanade.tachiyomi.extension.en.dynasty",
       "resources": {
@@ -7977,6 +9154,25 @@
           "language": "en",
           "homeUrl": "https://eggporncomics.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "El Goonish Shive",
+      "packageName": "eu.kanade.tachiyomi.extension.en.egscomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.egscomics-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.egscomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "6631281276194159210",
+          "name": "El Goonish Shive",
+          "language": "en",
+          "homeUrl": "https://www.egscomics.com"
         }
       ]
     },
@@ -8021,6 +9217,25 @@
       ]
     },
     {
+      "name": "Elan School",
+      "packageName": "eu.kanade.tachiyomi.extension.en.elanschool",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.elanschool-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.elanschool.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "6159323532820101296",
+          "name": "Elan School",
+          "language": "en",
+          "homeUrl": "https://elan.school"
+        }
+      ]
+    },
+    {
       "name": "Elf Toon",
       "packageName": "eu.kanade.tachiyomi.extension.en.elftoon",
       "resources": {
@@ -8036,6 +9251,26 @@
           "name": "Elf Toon",
           "language": "en",
           "homeUrl": "https://elftoon.com"
+        }
+      ]
+    },
+    {
+      "name": "emaqi",
+      "packageName": "eu.kanade.tachiyomi.extension.en.emaqi",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.emaqi-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.emaqi.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "3383118804501081522",
+          "name": "emaqi",
+          "language": "en",
+          "homeUrl": "https://emaqi.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -8158,6 +9393,44 @@
       ]
     },
     {
+      "name": "Existential Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.existentialcomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.existentialcomics-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.existentialcomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "684582342346256208",
+          "name": "Existential Comics",
+          "language": "en",
+          "homeUrl": "https://existentialcomics.com"
+        }
+      ]
+    },
+    {
+      "name": "Cyanide & Happiness",
+      "packageName": "eu.kanade.tachiyomi.extension.en.explosm",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.explosm-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.explosm.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "491094567635736188",
+          "name": "Cyanide & Happiness",
+          "language": "en",
+          "homeUrl": "https://explosm.net"
+        }
+      ]
+    },
+    {
       "name": "EZmanga",
       "packageName": "eu.kanade.tachiyomi.extension.en.ezmanga",
       "resources": {
@@ -8197,6 +9470,26 @@
       ]
     },
     {
+      "name": "Fairy Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.fairyscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.fairyscans-v1.4.33.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.fairyscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 33,
+      "versionName": "1.4.33",
+      "sources": [
+        {
+          "id": "7842496605600859779",
+          "name": "Fairy Scans",
+          "language": "en",
+          "homeUrl": "https://fairyscans.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Firescans",
       "packageName": "eu.kanade.tachiyomi.extension.en.firescans",
       "resources": {
@@ -8231,6 +9524,25 @@
           "name": "Flame Comics",
           "language": "en",
           "homeUrl": "https://flamecomics.xyz"
+        }
+      ]
+    },
+    {
+      "name": "Frieren Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.frierenonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.frierenonline-v1.4.51.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.frierenonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 51,
+      "versionName": "1.4.51",
+      "sources": [
+        {
+          "id": "27704135061035291",
+          "name": "Frieren Online",
+          "language": "en",
+          "homeUrl": "https://www.frieren.online"
         }
       ]
     },
@@ -8431,6 +9743,44 @@
       ]
     },
     {
+      "name": "Grrl Power Comic",
+      "packageName": "eu.kanade.tachiyomi.extension.en.grrlpower",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.grrlpower-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.grrlpower.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "1991252499508931836",
+          "name": "Grrl Power Comic",
+          "language": "en",
+          "homeUrl": "https://www.grrlpowercomic.com"
+        }
+      ]
+    },
+    {
+      "name": "Gunnerkrigg Court",
+      "packageName": "eu.kanade.tachiyomi.extension.en.gunnerkriggcourt",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.gunnerkriggcourt-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.gunnerkriggcourt.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "6036325841864340105",
+          "name": "Gunnerkrigg Court",
+          "language": "en",
+          "homeUrl": "https://www.gunnerkrigg.com"
+        }
+      ]
+    },
+    {
       "name": "Guya",
       "packageName": "eu.kanade.tachiyomi.extension.en.guya",
       "resources": {
@@ -8446,6 +9796,25 @@
           "name": "Guya",
           "language": "en",
           "homeUrl": "https://guya.cubari.moe"
+        }
+      ]
+    },
+    {
+      "name": "Gone with the Blastwave",
+      "packageName": "eu.kanade.tachiyomi.extension.en.gwtb",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.gwtb-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.gwtb.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "4006397036545425884",
+          "name": "Gone with the Blastwave",
+          "language": "en",
+          "homeUrl": "https://www.blastwave-comic.com"
         }
       ]
     },
@@ -8466,6 +9835,25 @@
           "language": "en",
           "homeUrl": "https://hachirumi.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Hades Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hadesscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.hadesscans-v1.4.33.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hadesscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 33,
+      "versionName": "1.4.33",
+      "sources": [
+        {
+          "id": "4351130568935854113",
+          "name": "Hades Scans",
+          "language": "en",
+          "homeUrl": "https://hadesscans.com"
         }
       ]
     },
@@ -8907,6 +10295,25 @@
       ]
     },
     {
+      "name": "I",
+      "packageName": "eu.kanade.tachiyomi.extension.en.imanevilgod",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.imanevilgod-v1.4.7.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.imanevilgod.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 7,
+      "versionName": "1.4.7",
+      "sources": [
+        {
+          "id": "7749515081735994760",
+          "name": "I'm An Evil God",
+          "language": "en",
+          "homeUrl": "https://imanevilgod.com"
+        }
+      ]
+    },
+    {
       "name": "Hive Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
       "resources": {
@@ -8941,6 +10348,26 @@
           "name": "InfinityScans",
           "language": "en",
           "homeUrl": "https://infinityscans.org",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "I Roved Out",
+      "packageName": "eu.kanade.tachiyomi.extension.en.irovedout",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.irovedout-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.irovedout.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "8197175895739916188",
+          "name": "I Roved Out",
+          "language": "en",
+          "homeUrl": "https://www.irovedout.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -8982,6 +10409,25 @@
           "language": "en",
           "homeUrl": "https://jinmangas.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "J-Novel",
+      "packageName": "eu.kanade.tachiyomi.extension.en.jnovel",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.jnovel-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.jnovel.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "2482510125735992610",
+          "name": "J-Novel",
+          "language": "en",
+          "homeUrl": "https://j-novel.club"
         }
       ]
     },
@@ -9122,6 +10568,25 @@
       ]
     },
     {
+      "name": "Kill Six Billion Demons",
+      "packageName": "eu.kanade.tachiyomi.extension.en.killsixbilliondemons",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.killsixbilliondemons-v1.4.6.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.killsixbilliondemons.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 6,
+      "versionName": "1.4.6",
+      "sources": [
+        {
+          "id": "5520021760150818261",
+          "name": "KillSixBillionDemons",
+          "language": "en",
+          "homeUrl": "https://killsixbilliondemons.com"
+        }
+      ]
+    },
+    {
       "name": "KingComiX",
       "packageName": "eu.kanade.tachiyomi.extension.en.kingcomix",
       "resources": {
@@ -9197,6 +10662,26 @@
           "name": "K Manga",
           "language": "en",
           "homeUrl": "https://kmanga.kodansha.com"
+        }
+      ]
+    },
+    {
+      "name": "Kodansha",
+      "packageName": "eu.kanade.tachiyomi.extension.en.kodansha",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.kodansha-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kodansha.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "809292874146405153",
+          "name": "Kodansha",
+          "language": "en",
+          "homeUrl": "https://kodansha.us",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -10401,6 +11886,25 @@
       ]
     },
     {
+      "name": "Mangamo",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangamo",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.mangamo-v1.4.7.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangamo.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 7,
+      "versionName": "1.4.7",
+      "sources": [
+        {
+          "id": "6458420328066857684",
+          "name": "Mangamo",
+          "language": "en",
+          "homeUrl": "https://www.mangamo.com"
+        }
+      ]
+    },
+    {
       "name": "Comivex",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangamob",
       "resources": {
@@ -10795,6 +12299,25 @@
       ]
     },
     {
+      "name": "ManhuaFast.net (unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.en.manhuafastnet",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manhuafastnet-v1.4.51.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuafastnet.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 51,
+      "versionName": "1.4.51",
+      "sources": [
+        {
+          "id": "3913016041409072217",
+          "name": "ManhuaFast.net (unoriginal)",
+          "language": "en",
+          "homeUrl": "https://manhuafast.net"
+        }
+      ]
+    },
+    {
       "name": "ManhuaHot",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuahot",
       "resources": {
@@ -10848,6 +12371,25 @@
           "name": "Manhua Plus",
           "language": "en",
           "homeUrl": "https://manhuaplus.com"
+        }
+      ]
+    },
+    {
+      "name": "ManhuaPlus (unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuaplusorg.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "5075089422240578347",
+          "name": "ManhuaPlus (Unoriginal)",
+          "language": "en",
+          "homeUrl": "https://manhuaplus.org"
         }
       ]
     },
@@ -11364,6 +12906,25 @@
           "language": "en",
           "homeUrl": "https://manhwazone.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Megatokyo",
+      "packageName": "eu.kanade.tachiyomi.extension.en.megatokyo",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.megatokyo-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.megatokyo.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "2609498548705590664",
+          "name": "Megatokyo",
+          "language": "en",
+          "homeUrl": "https://megatokyo.com"
         }
       ]
     },
@@ -11937,6 +13498,26 @@
       ]
     },
     {
+      "name": "Oglaf",
+      "packageName": "eu.kanade.tachiyomi.extension.en.oglaf",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.oglaf-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.oglaf.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "1725608127916018822",
+          "name": "Oglaf",
+          "language": "en",
+          "homeUrl": "https://www.oglaf.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Oh Joy Sex Toy",
       "packageName": "eu.kanade.tachiyomi.extension.en.ohjoysextoy",
       "resources": {
@@ -12017,6 +13598,25 @@
       ]
     },
     {
+      "name": "One Punch Man Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.onepunchmanonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.onepunchmanonline-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onepunchmanonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "897097334505121559",
+          "name": "One Punch Man Online",
+          "language": "en",
+          "homeUrl": "https://w11.1punchman.com"
+        }
+      ]
+    },
+    {
       "name": "Only The Best Hentai",
       "packageName": "eu.kanade.tachiyomi.extension.en.onlythebesthentai",
       "resources": {
@@ -12033,6 +13633,25 @@
           "language": "en",
           "homeUrl": "https://onlythebesthentai.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "oots",
+      "packageName": "eu.kanade.tachiyomi.extension.en.oots",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.oots-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.oots.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "6973362428290892964",
+          "name": "The Order Of The Stick (OOTS)",
+          "language": "en",
+          "homeUrl": "https://www.giantitp.com"
         }
       ]
     },
@@ -12132,6 +13751,25 @@
           "language": "en",
           "homeUrl": "https://www.paritehaber.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Patch Friday",
+      "packageName": "eu.kanade.tachiyomi.extension.en.patchfriday",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.patchfriday-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.patchfriday.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "5782663927698937256",
+          "name": "Patch Friday",
+          "language": "en",
+          "homeUrl": "https://patchfriday.com"
         }
       ]
     },
@@ -12272,6 +13910,25 @@
       ]
     },
     {
+      "name": "Questionable Content",
+      "packageName": "eu.kanade.tachiyomi.extension.en.questionablecontent",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.questionablecontent-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.questionablecontent.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "5564060716297760161",
+          "name": "Questionable Content",
+          "language": "en",
+          "homeUrl": "https://www.questionablecontent.net"
+        }
+      ]
+    },
+    {
       "name": "Rage Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.ragescans",
       "resources": {
@@ -12406,6 +14063,83 @@
       ]
     },
     {
+      "name": "Read Berserk Manga",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readberserkmanga",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readberserkmanga-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readberserkmanga.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "4917014756556380981",
+          "name": "Read Berserk Manga",
+          "language": "en",
+          "homeUrl": "https://readberserk.com"
+        }
+      ]
+    },
+    {
+      "name": "Read Black Clover Manga Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readblackclovermangaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "6485938153129890061",
+          "name": "Read Black Clover Manga Online",
+          "language": "en",
+          "homeUrl": "https://ww10.readblackclover.com"
+        }
+      ]
+    },
+    {
+      "name": "Read Boku no Hero Academia My Hero Academia Manga",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "4967091367056966966",
+          "name": "Read Boku no Hero Academia My Hero Academia Manga",
+          "language": "en",
+          "homeUrl": "https://ww10.readmha.com"
+        }
+      ]
+    },
+    {
+      "name": "Read Chainsaw Man Manga Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readchainsawmanmangaonline-v1.4.9.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 9,
+      "versionName": "1.4.9",
+      "sources": [
+        {
+          "id": "6207801235158968822",
+          "name": "Read Chainsaw Man Manga Online",
+          "language": "en",
+          "homeUrl": "https://ww5.readchainsawman.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "ReadComicOnline",
       "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
       "resources": {
@@ -12463,6 +14197,25 @@
       ]
     },
     {
+      "name": "Read Jujutsu Kaisen Manga Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readjujutsukaisenmangaonline-v1.4.9.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 9,
+      "versionName": "1.4.9",
+      "sources": [
+        {
+          "id": "808850989053853006",
+          "name": "Read Jujutsu Kaisen Manga Online",
+          "language": "en",
+          "homeUrl": "https://ww5.readjujutsukaisen.com"
+        }
+      ]
+    },
+    {
       "name": "Read Kingdom Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.readkingdommangaonline",
       "resources": {
@@ -12478,6 +14231,25 @@
           "name": "Read Kingdom Manga Online",
           "language": "en",
           "homeUrl": "https://ww5.readkingdom.com"
+        }
+      ]
+    },
+    {
+      "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "3945031984510180731",
+          "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
+          "language": "en",
+          "homeUrl": "https://ww7.read7deadlysins.com"
         }
       ]
     },
@@ -12516,6 +14288,101 @@
           "name": "Read One Piece Manga Online",
           "language": "en",
           "homeUrl": "https://ww12.readonepiece.com"
+        }
+      ]
+    },
+    {
+      "name": "Read One-Punch Man Manga Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readonepunchmanmangaonlinetwo-v1.4.8.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 8,
+      "versionName": "1.4.8",
+      "sources": [
+        {
+          "id": "8254209929759906152",
+          "name": "Read One-Punch Man Manga Online",
+          "language": "en",
+          "homeUrl": "https://ww6.readopm.com"
+        }
+      ]
+    },
+    {
+      "name": "Read Solo Leveling Manga Manhwa Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readsololevelingmangamanhwaonline-v1.4.10.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 10,
+      "versionName": "1.4.10",
+      "sources": [
+        {
+          "id": "1374366734159205648",
+          "name": "Read Solo Leveling Manga Manhwa Online",
+          "language": "en",
+          "homeUrl": "https://ww3.readsololeveling.org"
+        }
+      ]
+    },
+    {
+      "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.11.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 11,
+      "versionName": "1.4.11",
+      "sources": [
+        {
+          "id": "6468833665354206027",
+          "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+          "language": "en",
+          "homeUrl": "https://ww11.tokyoghoulre.com"
+        }
+      ]
+    },
+    {
+      "name": "Read Vagabond Manga",
+      "packageName": "eu.kanade.tachiyomi.extension.en.readvagabondmanga",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.readvagabondmanga-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.readvagabondmanga.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "5300358436613908601",
+          "name": "Read Vagabond Manga",
+          "language": "en",
+          "homeUrl": "https://readbagabondo.com"
+        }
+      ]
+    },
+    {
+      "name": "Real Life Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.reallifecomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.reallifecomics-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.reallifecomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "4890735226828164084",
+          "name": "Real Life Comics",
+          "language": "en",
+          "homeUrl": "https://reallifecomics.com"
         }
       ]
     },
@@ -12598,6 +14465,45 @@
       ]
     },
     {
+      "name": "Revival Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.revivalscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.revivalscans-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.revivalscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "6875037148225675112",
+          "name": "Revival Scans",
+          "language": "en",
+          "homeUrl": "https://www.revivalscans.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Rinko Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.rinkocomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.rinkocomics-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.rinkocomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "4915548839286527736",
+          "name": "Rinko Comics",
+          "language": "en",
+          "homeUrl": "https://rinkocomics.com"
+        }
+      ]
+    },
+    {
       "name": "RitharScans",
       "packageName": "eu.kanade.tachiyomi.extension.en.ritharscans",
       "resources": {
@@ -12632,6 +14538,25 @@
           "name": "Rizz Comic",
           "language": "en",
           "homeUrl": "https://rizzfables.com"
+        }
+      ]
+    },
+    {
+      "name": "Rizz Comic (unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.en.rizzcomicunoriginal",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.rizzcomicunoriginal-v1.4.32.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.rizzcomicunoriginal.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 32,
+      "versionName": "1.4.32",
+      "sources": [
+        {
+          "id": "8957809252307939773",
+          "name": "Rizz Comic (unoriginal)",
+          "language": "en",
+          "homeUrl": "https://rizzcomic.com"
         }
       ]
     },
@@ -12752,6 +14677,25 @@
       ]
     },
     {
+      "name": "Saturday Morning Breakfast Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.saturdaymorningbreakfastcomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.saturdaymorningbreakfastcomics-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.saturdaymorningbreakfastcomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "3035799230093482569",
+          "name": "Saturday Morning Breakfast Comics",
+          "language": "en",
+          "homeUrl": "https://smbc-comics.com"
+        }
+      ]
+    },
+    {
       "name": "ScansGG",
       "packageName": "eu.kanade.tachiyomi.extension.en.scansgg",
       "resources": {
@@ -12768,6 +14712,25 @@
           "language": "en",
           "homeUrl": "https://scans.gg",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Schlock Mercenary",
+      "packageName": "eu.kanade.tachiyomi.extension.en.schlockmercenary",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.schlockmercenary-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.schlockmercenary.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "4705692208637300585",
+          "name": "Schlock Mercenary",
+          "language": "en",
+          "homeUrl": "https://www.schlockmercenary.com"
         }
       ]
     },
@@ -12888,6 +14851,25 @@
       ]
     },
     {
+      "name": "Solar and Sundry",
+      "packageName": "eu.kanade.tachiyomi.extension.en.solarandsundry",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.solarandsundry-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.solarandsundry.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "7250486205199627024",
+          "name": "Solar and Sundry",
+          "language": "en",
+          "homeUrl": "https://sas-api.fly.dev"
+        }
+      ]
+    },
+    {
       "name": "Spmanhwa",
       "packageName": "eu.kanade.tachiyomi.extension.en.spmanhwa",
       "resources": {
@@ -12966,6 +14948,25 @@
       ]
     },
     {
+      "name": "SUPER MEGA",
+      "packageName": "eu.kanade.tachiyomi.extension.en.supermega",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.supermega-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.supermega.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "7900982727014582653",
+          "name": "SUPER MEGA",
+          "language": "en",
+          "homeUrl": "https://www.supermegacomics.com"
+        }
+      ]
+    },
+    {
       "name": "Genz Toons",
       "packageName": "eu.kanade.tachiyomi.extension.en.suryascans",
       "resources": {
@@ -12985,6 +14986,45 @@
       ]
     },
     {
+      "name": "Swords Comic",
+      "packageName": "eu.kanade.tachiyomi.extension.en.swordscomic",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.swordscomic-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.swordscomic.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "4098334577101891258",
+          "name": "Swords Comic",
+          "language": "en",
+          "homeUrl": "https://swordscomic.com"
+        }
+      ]
+    },
+    {
+      "name": "Tapas",
+      "packageName": "eu.kanade.tachiyomi.extension.en.tapastic",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.tapastic-v1.4.24.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.tapastic.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 24,
+      "versionName": "1.4.24",
+      "sources": [
+        {
+          "id": "5554748812413853237",
+          "name": "Tapas",
+          "language": "en",
+          "homeUrl": "https://tapas.io",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "TCB Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.tcbscans",
       "resources": {
@@ -13000,6 +15040,25 @@
           "name": "TCB Scans",
           "language": "en",
           "homeUrl": "https://tcbonepiecechapters.com"
+        }
+      ]
+    },
+    {
+      "name": "TCB Scans (Unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.en.tcbscansunoriginal",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.tcbscansunoriginal-v1.4.32.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.tcbscansunoriginal.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 32,
+      "versionName": "1.4.32",
+      "sources": [
+        {
+          "id": "3067475212004248014",
+          "name": "TCB Scans (Unoriginal)",
+          "language": "en",
+          "homeUrl": "https://tcbscanonepiecechapters.com"
         }
       ]
     },
@@ -13080,6 +15139,25 @@
           "language": "en",
           "homeUrl": "https://www.theduckwebcomics.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "The Property of Hate",
+      "packageName": "eu.kanade.tachiyomi.extension.en.thepropertyofhate",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.thepropertyofhate-v1.4.5.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.thepropertyofhate.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 5,
+      "versionName": "1.4.5",
+      "sources": [
+        {
+          "id": "7307224992915342074",
+          "name": "The Property of Hate",
+          "language": "en",
+          "homeUrl": "https://jolleycomics.com"
         }
       ]
     },
@@ -13341,6 +15419,25 @@
       ]
     },
     {
+      "name": "Valir Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.valirscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.valirscans-v1.4.21.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.valirscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 21,
+      "versionName": "1.4.21",
+      "sources": [
+        {
+          "id": "8440187396173658748",
+          "name": "Valir Scans",
+          "language": "en",
+          "homeUrl": "https://valirscans.org"
+        }
+      ]
+    },
+    {
       "name": "Vanilla Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.vanillascans",
       "resources": {
@@ -13375,6 +15472,31 @@
           "name": "vgperson",
           "language": "en",
           "homeUrl": "https://vgperson.com/other/mangaviewer.php"
+        }
+      ]
+    },
+    {
+      "name": "VIZ",
+      "packageName": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.vizshonenjump-v1.4.25.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.vizshonenjump.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 25,
+      "versionName": "1.4.25",
+      "sources": [
+        {
+          "id": "2727926930665642563",
+          "name": "VIZ Shonen Jump",
+          "language": "en",
+          "homeUrl": "https://www.viz.com"
+        },
+        {
+          "id": "2964046845727023397",
+          "name": "VIZ Manga",
+          "language": "en",
+          "homeUrl": "https://www.viz.com"
         }
       ]
     },
@@ -13511,6 +15633,25 @@
           "name": "Webdex Scans",
           "language": "en",
           "homeUrl": "https://webdexscans.com"
+        }
+      ]
+    },
+    {
+      "name": "WebNovel",
+      "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.webnovel-v1.4.13.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.webnovel.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 13,
+      "versionName": "1.4.13",
+      "sources": [
+        {
+          "id": "4081135203808920563",
+          "name": "WebNovel",
+          "language": "en",
+          "homeUrl": "https://www.webnovel.com"
         }
       ]
     },
@@ -13730,6 +15871,25 @@
       ]
     },
     {
+      "name": "Xscans",
+      "packageName": "eu.kanade.tachiyomi.extension.en.xscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.xscans-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.xscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "7299252694567414031",
+          "name": "Xscans",
+          "language": "en",
+          "homeUrl": "https://xscans.site"
+        }
+      ]
+    },
+    {
       "name": "YakshaComics",
       "packageName": "eu.kanade.tachiyomi.extension.en.yakshacomics",
       "resources": {
@@ -13881,6 +16041,26 @@
         {
           "id": "1345447568467813585",
           "name": "ZinChanManga",
+          "language": "en",
+          "homeUrl": "https://zinchangmanga.net",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "ZinChanManga.com",
+      "packageName": "eu.kanade.tachiyomi.extension.en.zinchanmangacom",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-en.zinchanmangacom-v1.4.54.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zinchanmangacom.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 54,
+      "versionName": "1.4.54",
+      "sources": [
+        {
+          "id": "8436939591318965973",
+          "name": "ZinChanManga.com",
           "language": "en",
           "homeUrl": "https://zinchangmanga.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -15476,6 +17656,25 @@
       ]
     },
     {
+      "name": "InsanosScan",
+      "packageName": "eu.kanade.tachiyomi.extension.es.insanosscan",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.insanosscan-v1.4.31.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.insanosscan.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 31,
+      "versionName": "1.4.31",
+      "sources": [
+        {
+          "id": "5322003068520429479",
+          "name": "InsanosScan",
+          "language": "es",
+          "homeUrl": "https://insanoslibrary.com"
+        }
+      ]
+    },
+    {
       "name": "Inventario Oculto",
       "packageName": "eu.kanade.tachiyomi.extension.es.inventariooculto",
       "resources": {
@@ -16398,6 +18597,25 @@
       ]
     },
     {
+      "name": "MHScans",
+      "packageName": "eu.kanade.tachiyomi.extension.es.mhscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.mhscans-v1.4.65.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mhscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 65,
+      "versionName": "1.4.65",
+      "sources": [
+        {
+          "id": "3253304651550496369",
+          "name": "MHScans",
+          "language": "es",
+          "homeUrl": "https://mhscans.com"
+        }
+      ]
+    },
+    {
       "name": "Michu Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.michuscan",
       "resources": {
@@ -16531,6 +18749,26 @@
           "name": "NeroTranslations",
           "language": "es",
           "homeUrl": "https://capibaratraductor.com/nerotranslate"
+        }
+      ]
+    },
+    {
+      "name": "NexusScanlation",
+      "packageName": "eu.kanade.tachiyomi.extension.es.nexusscanlation",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.nexusscanlation-v1.4.4.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nexusscanlation.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "sources": [
+        {
+          "id": "4086183896761281232",
+          "name": "NexusScanlation",
+          "language": "es",
+          "homeUrl": "https://nexusscanlation.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -16806,6 +19044,25 @@
       ]
     },
     {
+      "name": "Ragna Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.es.ragnascans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.ragnascans-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.ragnascans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "6003330990591348231",
+          "name": "Ragna Scans",
+          "language": "es",
+          "homeUrl": "https://lector.ragnascan.xyz"
+        }
+      ]
+    },
+    {
       "name": "Raiki Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.raikiscan",
       "resources": {
@@ -17058,7 +19315,7 @@
       ]
     },
     {
-      "name": "Señor Chofli",
+      "name": "Se\u00f1or Chofli",
       "packageName": "eu.kanade.tachiyomi.extension.es.senorchofli",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.senorchofli-v1.4.5.apk",
@@ -17070,7 +19327,7 @@
       "sources": [
         {
           "id": "5037552885664001557",
-          "name": "Señor Chofli",
+          "name": "Se\u00f1or Chofli",
           "language": "es",
           "homeUrl": "https://capibaratraductor.com/sirchofli",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -17346,6 +19603,26 @@
           "name": "Taurus Fansub",
           "language": "es",
           "homeUrl": "https://lectortaurus.com"
+        }
+      ]
+    },
+    {
+      "name": "Temple Scan",
+      "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.62.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templescanesp.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 62,
+      "versionName": "1.4.62",
+      "sources": [
+        {
+          "id": "3451196845457607826",
+          "name": "Temple Scan",
+          "language": "es",
+          "homeUrl": "https://aedexnox.akan01.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -17700,6 +19977,33 @@
           "name": "Virreinato de Unknown Realm Fansub",
           "language": "es",
           "homeUrl": "https://capibaratraductor.com/unknown-realm-fansub"
+        }
+      ]
+    },
+    {
+      "name": "VCPVMP",
+      "packageName": "eu.kanade.tachiyomi.extension.es.vcpvmp",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-es.vcpvmp-v1.4.12.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.vcpvmp.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 12,
+      "versionName": "1.4.12",
+      "sources": [
+        {
+          "id": "8472215287946707583",
+          "name": "VCP",
+          "language": "es",
+          "homeUrl": "https://vercomicsporno.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "4952451593357491304",
+          "name": "VMP",
+          "language": "es",
+          "homeUrl": "https://vermangasporno.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -18561,6 +20865,44 @@
       ]
     },
     {
+      "name": "Poseidon Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.poseidonscans-v1.4.51.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.poseidonscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 51,
+      "versionName": "1.4.51",
+      "sources": [
+        {
+          "id": "8936307069044646761",
+          "name": "Poseidon Scans",
+          "language": "fr",
+          "homeUrl": "https://poseidon-scans.net"
+        }
+      ]
+    },
+    {
+      "name": "Raijin Scans",
+      "packageName": "eu.kanade.tachiyomi.extension.fr.raijinscans",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.raijinscans-v1.4.66.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.raijinscans.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 66,
+      "versionName": "1.4.66",
+      "sources": [
+        {
+          "id": "8373267671495516033",
+          "name": "Raijin Scans",
+          "language": "fr",
+          "homeUrl": "https://raijin-scans.fr"
+        }
+      ]
+    },
+    {
       "name": "Rimu Scans",
       "packageName": "eu.kanade.tachiyomi.extension.fr.rimuscans",
       "resources": {
@@ -18834,6 +21176,26 @@
       ]
     },
     {
+      "name": "YaoiScan",
+      "packageName": "eu.kanade.tachiyomi.extension.fr.yaoiscan",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.yaoiscan-v1.4.33.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.yaoiscan.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 33,
+      "versionName": "1.4.33",
+      "sources": [
+        {
+          "id": "7333825394865171341",
+          "name": "YaoiScan",
+          "language": "fr",
+          "homeUrl": "https://yaoiscan.fr",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Luvyaa",
       "packageName": "eu.kanade.tachiyomi.extension.id.Luvyaa",
       "resources": {
@@ -19064,6 +21426,26 @@
           "name": "Doujindesu",
           "language": "id",
           "homeUrl": "https://doujindesu.tv",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "DoujinDesu (Unoriginal)",
+      "packageName": "eu.kanade.tachiyomi.extension.id.doujindesuunoriginal",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-id.doujindesuunoriginal-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.id.doujindesuunoriginal.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "8939464081632366962",
+          "name": "DoujinDesu (Unoriginal)",
+          "language": "id",
+          "homeUrl": "https://v2.doujindesu.fun",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -20841,6 +23223,46 @@
       ]
     },
     {
+      "name": "Alphapolis",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.alphapolis",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.alphapolis-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.alphapolis.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "1943011614685426671",
+          "name": "Alphapolis",
+          "language": "ja",
+          "homeUrl": "https://www.alphapolis.co.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Ameba Manga",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.amebamanga",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.amebamanga-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.amebamanga.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "2623577517578458051",
+          "name": "Ameba Manga",
+          "language": "ja",
+          "homeUrl": "https://dokusho-ojikan.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Big Comics",
       "packageName": "eu.kanade.tachiyomi.extension.ja.bigcomics",
       "resources": {
@@ -20875,6 +23297,26 @@
           "name": "Ciao Plus",
           "language": "ja",
           "homeUrl": "https://ciao.shogakukan.co.jp"
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.cmoa",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.cmoa-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.cmoa.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "1222039348961733003",
+          "name": "C'moA",
+          "language": "ja",
+          "homeUrl": "https://www.cmoa.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -20951,6 +23393,26 @@
           "name": "Comic Earth Star",
           "language": "ja",
           "homeUrl": "https://comic-earthstar.com"
+        }
+      ]
+    },
+    {
+      "name": "Comic Festa",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.comicfesta",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.comicfesta-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.comicfesta.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "8029218690220992872",
+          "name": "Comic Festa",
+          "language": "ja",
+          "homeUrl": "https://comic.iowl.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -21083,7 +23545,7 @@
       "sources": [
         {
           "id": "4991718230921189832",
-          "name": "コミコ",
+          "name": "\u30b3\u30df\u30b3",
           "language": "ja",
           "homeUrl": "https://www.comico.jp",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -21224,6 +23686,33 @@
       ]
     },
     {
+      "name": "DMM/FANZA",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.dmm",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.dmm-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.dmm.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "7153958782880204235",
+          "name": "DMM",
+          "language": "ja",
+          "homeUrl": "https://book.dmm.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        },
+        {
+          "id": "6425776937733405129",
+          "name": "FANZA",
+          "language": "ja",
+          "homeUrl": "https://book.dmm.co.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Docomo",
       "packageName": "eu.kanade.tachiyomi.extension.ja.docomo",
       "resources": {
@@ -21283,6 +23772,26 @@
       ]
     },
     {
+      "name": "eBookJapan",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.ebookjapan",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.ebookjapan-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.ebookjapan.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "124967435702149192",
+          "name": "eBookJapan",
+          "language": "ja",
+          "homeUrl": "https://ebookjapan.yahoo.co.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "FireCross",
       "packageName": "eu.kanade.tachiyomi.extension.ja.firecross",
       "resources": {
@@ -21298,6 +23807,45 @@
           "name": "FireCross",
           "language": "ja",
           "homeUrl": "https://firecross.jp"
+        }
+      ]
+    },
+    {
+      "name": "Flower Comics",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.flowercomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.flowercomics-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.flowercomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "6525907185900913523",
+          "name": "Flower Comics",
+          "language": "ja",
+          "homeUrl": "https://flowercomics.jp"
+        }
+      ]
+    },
+    {
+      "name": "FOD",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.fodfuji",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.fodfuji-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.fodfuji.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "813084616937908482",
+          "name": "FOD",
+          "language": "ja",
+          "homeUrl": "https://manga.fod.fujitv.co.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
     },
@@ -21352,7 +23900,7 @@
       "sources": [
         {
           "id": "9220365500598403749",
-          "name": "がうがうモンスター＋",
+          "name": "\u304c\u3046\u304c\u3046\u30e2\u30f3\u30b9\u30bf\u30fc\uff0b",
           "language": "ja",
           "homeUrl": "https://gaugau.futabanet.jp"
         }
@@ -21527,7 +24075,7 @@
       "sources": [
         {
           "id": "8396089563187142394",
-          "name": "カドコミ",
+          "name": "\u30ab\u30c9\u30b3\u30df",
           "language": "ja",
           "homeUrl": "https://comic-walker.com"
         }
@@ -21827,6 +24375,26 @@
       ]
     },
     {
+      "name": "Manga Kingdom",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.mangakingdom",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangakingdom-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangakingdom.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "3806352284314527898",
+          "name": "Manga Kingdom",
+          "language": "ja",
+          "homeUrl": "https://comic.k-manga.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "MangaKuro",
       "packageName": "eu.kanade.tachiyomi.extension.ja.mangakuro",
       "resources": {
@@ -21842,6 +24410,25 @@
           "name": "MangaKuro",
           "language": "ja",
           "homeUrl": "https://mangakuro.net"
+        }
+      ]
+    },
+    {
+      "name": "MangaMee",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.mangamee",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangamee-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangamee.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "5152016637336953348",
+          "name": "MangaMee",
+          "language": "ja",
+          "homeUrl": "https://manga-mee.jp"
         }
       ]
     },
@@ -21885,6 +24472,25 @@
       ]
     },
     {
+      "name": "MangaNo",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.mangano",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangano-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangano.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "7717838940254847800",
+          "name": "MangaNo",
+          "language": "ja",
+          "homeUrl": "https://manga-no.com"
+        }
+      ]
+    },
+    {
       "name": "Manga One",
       "packageName": "eu.kanade.tachiyomi.extension.ja.mangaone",
       "resources": {
@@ -21904,6 +24510,45 @@
       ]
     },
     {
+      "name": "Manga-Park",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.mangaparkpublisher",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangaparkpublisher-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangaparkpublisher.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "2905661176145448719",
+          "name": "Manga-Park",
+          "language": "ja",
+          "homeUrl": "https://manga-park.com"
+        }
+      ]
+    },
+    {
+      "name": "Manga Saison",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.mangasaison",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.mangasaison-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.mangasaison.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "7468001507218227155",
+          "name": "Manga Saison",
+          "language": "ja",
+          "homeUrl": "https://mechacomi.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Manga Toshokan Z",
       "packageName": "eu.kanade.tachiyomi.extension.ja.mangatoshokanz",
       "resources": {
@@ -21916,7 +24561,7 @@
       "sources": [
         {
           "id": "7564150377964448106",
-          "name": "マンガ図書館Z",
+          "name": "\u30de\u30f3\u30ac\u56f3\u66f8\u9928Z",
           "language": "ja",
           "homeUrl": "https://www.mangaz.com"
         }
@@ -22079,6 +24724,26 @@
       ]
     },
     {
+      "name": "Piccoma",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.piccoma",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.piccoma-v1.4.2.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.piccoma.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 2,
+      "versionName": "1.4.2",
+      "sources": [
+        {
+          "id": "7159690625157327655",
+          "name": "Piccoma",
+          "language": "ja",
+          "homeUrl": "https://piccoma.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Pixiv Comic",
       "packageName": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
       "resources": {
@@ -22091,7 +24756,7 @@
       "sources": [
         {
           "id": "2937751339618832603",
-          "name": "Pixivコミック",
+          "name": "Pixiv\u30b3\u30df\u30c3\u30af",
           "language": "ja",
           "homeUrl": "https://comic.pixiv.net"
         }
@@ -22298,6 +24963,26 @@
       ]
     },
     {
+      "name": "Reader Store",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.readerstore",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.readerstore-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.readerstore.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "424606783143704524",
+          "name": "Reader Store",
+          "language": "ja",
+          "homeUrl": "https://ebookstore.sony.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "RimacomiPlus",
       "packageName": "eu.kanade.tachiyomi.extension.ja.rimacomiplus",
       "resources": {
@@ -22453,6 +25138,25 @@
       ]
     },
     {
+      "name": "U-NEXT",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.unext",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.unext-v1.4.3.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.unext.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 3,
+      "versionName": "1.4.3",
+      "sources": [
+        {
+          "id": "1896940876613282856",
+          "name": "U-NEXT",
+          "language": "ja",
+          "homeUrl": "https://video.unext.jp"
+        }
+      ]
+    },
+    {
       "name": "Love4u",
       "packageName": "eu.kanade.tachiyomi.extension.ja.welovemangaone",
       "resources": {
@@ -22485,17 +25189,36 @@
       "sources": [
         {
           "id": "2126618372106431410",
-          "name": "ヤンマガ（マンガ）",
+          "name": "\u30e4\u30f3\u30de\u30ac\uff08\u30de\u30f3\u30ac\uff09",
           "language": "ja",
           "homeUrl": "https://yanmaga.jp",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "2227240489801599645",
-          "name": "ヤンマガ（グラビア）",
+          "name": "\u30e4\u30f3\u30de\u30ac\uff08\u30b0\u30e9\u30d3\u30a2\uff09",
           "language": "ja",
           "homeUrl": "https://yanmaga.jp",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Young Jump+",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.ynjn",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.ynjn-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.ynjn.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "3322701627784242064",
+          "name": "Young Jump+",
+          "language": "ja",
+          "homeUrl": "https://ynjn.jp"
         }
       ]
     },
@@ -22558,6 +25281,26 @@
       ]
     },
     {
+      "name": "Zebrack",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.zebrack",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-ja.zebrack-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.ja.zebrack.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "4709947565690324919",
+          "name": "Zebrack",
+          "language": "ja",
+          "homeUrl": "https://zebrack-comic.shueisha.co.jp",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "Zenon",
       "packageName": "eu.kanade.tachiyomi.extension.ja.zenon",
       "resources": {
@@ -22608,7 +25351,7 @@
       "sources": [
         {
           "id": "7080800841003944426",
-          "name": "블랙툰",
+          "name": "\ube14\ub799\ud230",
           "language": "ko",
           "homeUrl": "https://blacktoon.me",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -22739,21 +25482,21 @@
       "sources": [
         {
           "id": "5583626852311652499",
-          "name": "늑대닷컴 - 웹툰",
+          "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
           "language": "ko",
           "homeUrl": "https://wfwf466.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "7074060458114951398",
-          "name": "늑대닷컴 - 만화책",
+          "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
           "language": "ko",
           "homeUrl": "https://wfwf466.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         },
         {
           "id": "4225505094399546613",
-          "name": "늑대닷컴 - 포토툰",
+          "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
           "language": "ko",
           "homeUrl": "https://wfwf466.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -22838,7 +25581,7 @@
       ]
     },
     {
-      "name": "Apenas Uma Fã",
+      "name": "Apenas Uma F\u00e3",
       "packageName": "eu.kanade.tachiyomi.extension.pt.apenasumafa",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.apenasumafa-v1.4.13.apk",
@@ -22850,7 +25593,7 @@
       "sources": [
         {
           "id": "6897166867127039489",
-          "name": "Apenas Uma Fã",
+          "name": "Apenas Uma F\u00e3",
           "language": "pt-BR",
           "homeUrl": "https://apenasuma-fa.blogspot.com"
         }
@@ -23090,7 +25833,7 @@
       ]
     },
     {
-      "name": "Café com Yaoi",
+      "name": "Caf\u00e9 com Yaoi",
       "packageName": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.cafecomyaoi-v1.4.54.apk",
@@ -23102,7 +25845,7 @@
       "sources": [
         {
           "id": "340055543197648554",
-          "name": "Café com Yaoi",
+          "name": "Caf\u00e9 com Yaoi",
           "language": "pt-BR",
           "homeUrl": "https://cafecomyaoi.com.br",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -23508,7 +26251,7 @@
       ]
     },
     {
-      "name": "Sagrado Império da Britannia",
+      "name": "Sagrado Imp\u00e9rio da Britannia",
       "packageName": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.imperiodabritannia-v1.4.55.apk",
@@ -23520,7 +26263,7 @@
       "sources": [
         {
           "id": "7355004027880350247",
-          "name": "Sagrado Império da Britannia",
+          "name": "Sagrado Imp\u00e9rio da Britannia",
           "language": "pt-BR",
           "homeUrl": "https://imperiodabritannia.net"
         }
@@ -23655,7 +26398,7 @@
       "sources": [
         {
           "id": "1445343849143422351",
-          "name": "Leitura Mangá",
+          "name": "Leitura Mang\u00e1",
           "language": "pt-BR",
           "homeUrl": "https://leituramanga.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -24625,7 +27368,7 @@
       ]
     },
     {
-      "name": "Taiyō",
+      "name": "Taiy\u014d",
       "packageName": "eu.kanade.tachiyomi.extension.pt.taiyo",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.taiyo-v1.4.11.apk",
@@ -24637,7 +27380,7 @@
       "sources": [
         {
           "id": "7387610647818309943",
-          "name": "Taiyō",
+          "name": "Taiy\u014d",
           "language": "pt-BR",
           "homeUrl": "https://taiyo.moe",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -24705,7 +27448,7 @@
       ]
     },
     {
-      "name": "Temaki mangás",
+      "name": "Temaki mang\u00e1s",
       "packageName": "eu.kanade.tachiyomi.extension.pt.temakimangas",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.temakimangas-v1.4.13.apk",
@@ -24717,7 +27460,7 @@
       "sources": [
         {
           "id": "677370205708439700",
-          "name": "Temaki mangás",
+          "name": "Temaki mang\u00e1s",
           "language": "pt-BR",
           "homeUrl": "https://temakimangas.blogspot.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -24764,7 +27507,7 @@
       ]
     },
     {
-      "name": "Traduções do Lipe",
+      "name": "Tradu\u00e7\u00f5es do Lipe",
       "packageName": "eu.kanade.tachiyomi.extension.pt.traducoesdolipe",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.traducoesdolipe-v1.4.14.apk",
@@ -24776,14 +27519,14 @@
       "sources": [
         {
           "id": "3650511144741653873",
-          "name": "Traduções do Lipe",
+          "name": "Tradu\u00e7\u00f5es do Lipe",
           "language": "pt-BR",
           "homeUrl": "https://traducoesdolipe.blogspot.com"
         }
       ]
     },
     {
-      "name": "Tsundoku Traduções",
+      "name": "Tsundoku Tradu\u00e7\u00f5es",
       "packageName": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.tsundokutraducoes-v1.4.42.apk",
@@ -24795,7 +27538,7 @@
       "sources": [
         {
           "id": "2091088265283814173",
-          "name": "Tsundoku Traduções",
+          "name": "Tsundoku Tradu\u00e7\u00f5es",
           "language": "pt-BR",
           "homeUrl": "https://tsundoku.com.br",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -24922,7 +27665,7 @@
       ]
     },
     {
-      "name": "Yomu Mangás",
+      "name": "Yomu Mang\u00e1s",
       "packageName": "eu.kanade.tachiyomi.extension.pt.yomumangas",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.yomumangas-v1.4.5.apk",
@@ -24934,7 +27677,7 @@
       "sources": [
         {
           "id": "1636954121036022614",
-          "name": "Yomu Mangás",
+          "name": "Yomu Mang\u00e1s",
           "language": "pt-BR",
           "homeUrl": "https://yomumangas.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -24942,7 +27685,7 @@
       ]
     },
     {
-      "name": "Yugen Mangás",
+      "name": "Yugen Mang\u00e1s",
       "packageName": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-pt.yugenmangas-v1.4.51.apk",
@@ -24954,7 +27697,7 @@
       "sources": [
         {
           "id": "8900485893586998299",
-          "name": "Yugen Mangás",
+          "name": "Yugen Mang\u00e1s",
           "language": "pt-BR",
           "homeUrl": "https://yugenmangasbr.dxtg.online"
         }
@@ -26198,7 +28941,7 @@
       "sources": [
         {
           "id": "8174267898467838103",
-          "name": "สดใสเมะ",
+          "name": "\u0e2a\u0e14\u0e43\u0e2a\u0e40\u0e21\u0e30",
           "language": "th",
           "homeUrl": "https://www.xn--l3c0azab5a2gta.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -26420,7 +29163,7 @@
       ]
     },
     {
-      "name": "ÇaprazManga",
+      "name": "\u00c7aprazManga",
       "packageName": "eu.kanade.tachiyomi.extension.tr.caprazmanga",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.caprazmanga-v1.4.51.apk",
@@ -26432,7 +29175,7 @@
       "sources": [
         {
           "id": "7298383099057828683",
-          "name": "ÇaprazManga",
+          "name": "\u00c7aprazManga",
           "language": "tr",
           "homeUrl": "https://caprazmanga.com"
         }
@@ -26593,7 +29336,7 @@
       ]
     },
     {
-      "name": "Gölge Bahçesi",
+      "name": "G\u00f6lge Bah\u00e7esi",
       "packageName": "eu.kanade.tachiyomi.extension.tr.golgebahcesi",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.golgebahcesi-v1.4.33.apk",
@@ -26605,7 +29348,7 @@
       "sources": [
         {
           "id": "7442439989890509521",
-          "name": "Gölge Bahçesi",
+          "name": "G\u00f6lge Bah\u00e7esi",
           "language": "tr",
           "homeUrl": "https://golgebahcesi.com"
         }
@@ -26885,7 +29628,7 @@
       ]
     },
     {
-      "name": "Manga Şehri",
+      "name": "Manga \u015eehri",
       "packageName": "eu.kanade.tachiyomi.extension.tr.mangasehri",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.mangasehri-v1.4.52.apk",
@@ -26897,7 +29640,7 @@
       "sources": [
         {
           "id": "765479493052253014",
-          "name": "Manga Şehri",
+          "name": "Manga \u015eehri",
           "language": "tr",
           "homeUrl": "https://manga-sehri.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -26905,7 +29648,7 @@
       ]
     },
     {
-      "name": "Manga Şehri.net",
+      "name": "Manga \u015eehri.net",
       "packageName": "eu.kanade.tachiyomi.extension.tr.mangasehrinet",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.mangasehrinet-v1.4.52.apk",
@@ -26917,7 +29660,7 @@
       "sources": [
         {
           "id": "2403498411345112019",
-          "name": "Manga Şehri.net",
+          "name": "Manga \u015eehri.net",
           "language": "tr",
           "homeUrl": "https://manga-sehri.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -26925,7 +29668,7 @@
       ]
     },
     {
-      "name": "Manga Bahçesi",
+      "name": "Manga Bah\u00e7esi",
       "packageName": "eu.kanade.tachiyomi.extension.tr.mangaship",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.mangaship-v1.4.4.apk",
@@ -26937,7 +29680,7 @@
       "sources": [
         {
           "id": "7110025728969951060",
-          "name": "Manga Bahçesi",
+          "name": "Manga Bah\u00e7esi",
           "language": "tr",
           "homeUrl": "https://mangabahcesi.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -27334,7 +30077,7 @@
       ]
     },
     {
-      "name": "Rüya Manga",
+      "name": "R\u00fcya Manga",
       "packageName": "eu.kanade.tachiyomi.extension.tr.ruyamanga",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.ruyamanga-v1.4.55.apk",
@@ -27346,14 +30089,14 @@
       "sources": [
         {
           "id": "5786550835901373927",
-          "name": "Rüya Manga",
+          "name": "R\u00fcya Manga",
           "language": "tr",
           "homeUrl": "https://www.ruyamanga2.com"
         }
       ]
     },
     {
-      "name": "Rüya Manga.net",
+      "name": "R\u00fcya Manga.net",
       "packageName": "eu.kanade.tachiyomi.extension.tr.ruyamanganet",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.ruyamanganet-v1.4.51.apk",
@@ -27365,7 +30108,7 @@
       "sources": [
         {
           "id": "5507342509037890098",
-          "name": "Rüya Manga.net",
+          "name": "R\u00fcya Manga.net",
           "language": "tr",
           "homeUrl": "https://ruyamanga.net"
         }
@@ -27391,7 +30134,7 @@
       ]
     },
     {
-      "name": "Shadow Çeviri",
+      "name": "Shadow \u00c7eviri",
       "packageName": "eu.kanade.tachiyomi.extension.tr.shadowceviri",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.shadowceviri-v1.4.13.apk",
@@ -27403,7 +30146,7 @@
       "sources": [
         {
           "id": "3852979672050614736",
-          "name": "Shadow Çeviri",
+          "name": "Shadow \u00c7eviri",
           "language": "tr",
           "homeUrl": "https://shadowceviri.blogspot.com"
         }
@@ -27624,7 +30367,7 @@
       ]
     },
     {
-      "name": "Türkçe Manga Oku",
+      "name": "T\u00fcrk\u00e7e Manga Oku",
       "packageName": "eu.kanade.tachiyomi.extension.tr.turkcemangaoku",
       "resources": {
         "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-tr.turkcemangaoku-v1.4.52.apk",
@@ -27636,7 +30379,7 @@
       "sources": [
         {
           "id": "1213201447439140959",
-          "name": "Türkçe Manga Oku",
+          "name": "T\u00fcrk\u00e7e Manga Oku",
           "language": "tr",
           "homeUrl": "https://trmangaoku.com"
         }
@@ -27655,7 +30398,7 @@
       "sources": [
         {
           "id": "4269781201892859761",
-          "name": "Türkçe Manga Oku TR",
+          "name": "T\u00fcrk\u00e7e Manga Oku TR",
           "language": "tr",
           "homeUrl": "https://turkcemangaoku.com.tr",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -28050,7 +30793,7 @@
       "sources": [
         {
           "id": "1039830224122325226",
-          "name": "Dưa Leo Truyện",
+          "name": "D\u01b0a Leo Truy\u1ec7n",
           "language": "vi",
           "homeUrl": "https://dualeotruyenpy.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -28754,7 +31497,7 @@
       "sources": [
         {
           "id": "1832370231745386795",
-          "name": "Team Lạnh Lùng",
+          "name": "Team L\u1ea1nh L\u00f9ng",
           "language": "vi",
           "homeUrl": "https://lunghihi.icu",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -28873,7 +31616,7 @@
       "sources": [
         {
           "id": "6484094278517548634",
-          "name": "Truyện Hentai 18+",
+          "name": "Truy\u1ec7n Hentai 18+",
           "language": "vi",
           "homeUrl": "https://truyenhentai18.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -28992,7 +31735,7 @@
       "sources": [
         {
           "id": "3809566188515992024",
-          "name": "Truyện tranh đam mỹ",
+          "name": "Truy\u1ec7n tranh \u0111am m\u1ef9",
           "language": "vi",
           "homeUrl": "https://truyentranhdammyy.site",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29249,7 +31992,7 @@
       "sources": [
         {
           "id": "3712194609356981776",
-          "name": "巴卡漫画",
+          "name": "\u5df4\u5361\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://bakamh.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29269,7 +32012,7 @@
       "sources": [
         {
           "id": "5724751873601868259",
-          "name": "包子漫画",
+          "name": "\u5305\u5b50\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://cn.baozimh.com"
         }
@@ -29288,7 +32031,7 @@
       "sources": [
         {
           "id": "774030471139699415",
-          "name": "GoDa漫画",
+          "name": "GoDa\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://baozimh.org#, https://godamh.com#, https://m.baozimh.one#, https://bzmh.org#, https://g-mh.org#, https://m.g-mh.org"
         }
@@ -29307,7 +32050,7 @@
       "sources": [
         {
           "id": "5943234929466346733",
-          "name": "《崩坏3》IP站",
+          "name": "\u300a\u5d29\u574f3\u300bIP\u7ad9",
           "language": "zh",
           "homeUrl": "https://comic.bh3.com"
         }
@@ -29346,7 +32089,7 @@
       "sources": [
         {
           "id": "1471112097704477289",
-          "name": "香香腐宅",
+          "name": "\u9999\u9999\u8150\u5b85",
           "language": "zh",
           "homeUrl": "https://boylove1.mobi",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29386,7 +32129,7 @@
       "sources": [
         {
           "id": "8110122805257580230",
-          "name": "無限動漫",
+          "name": "\u7121\u9650\u52d5\u6f2b",
           "language": "zh",
           "homeUrl": "https://www.8comic.com"
         }
@@ -29405,7 +32148,7 @@
       "sources": [
         {
           "id": "8346821279138091413",
-          "name": "CCC追漫台",
+          "name": "CCC\u8ffd\u6f2b\u53f0",
           "language": "zh-Hant",
           "homeUrl": "https://www.creative-comic.tw"
         }
@@ -29424,7 +32167,7 @@
       "sources": [
         {
           "id": "293789630396851172",
-          "name": "动漫屋",
+          "name": "\u52a8\u6f2b\u5c4b",
           "language": "zh",
           "homeUrl": "https://www.dm5.cn",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29463,7 +32206,7 @@
       "sources": [
         {
           "id": "7167507050606280098",
-          "name": "读漫屋",
+          "name": "\u8bfb\u6f2b\u5c4b",
           "language": "zh",
           "homeUrl": "https://m.dumanwu1.com"
         }
@@ -29482,7 +32225,7 @@
       "sources": [
         {
           "id": "5706270060628375954",
-          "name": "18漫画",
+          "name": "18\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://18mh.org",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29502,7 +32245,7 @@
       "sources": [
         {
           "id": "2276541741750874058",
-          "name": "喜漫漫画",
+          "name": "\u559c\u6f2b\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://www.favcomic.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29562,7 +32305,7 @@
       "sources": [
         {
           "id": "6523822705383645833",
-          "name": "嗨皮漫画",
+          "name": "\u55e8\u76ae\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://m.happymh.com"
         }
@@ -29601,7 +32344,7 @@
       "sources": [
         {
           "id": "8618065660246087865",
-          "name": "绅士会所",
+          "name": "\u7ec5\u58eb\u4f1a\u6240",
           "language": "zh",
           "homeUrl": "https://www.hentaiclub.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29621,7 +32364,7 @@
       "sources": [
         {
           "id": "2198877009406729694",
-          "name": "爱奇艺叭嗒",
+          "name": "\u7231\u5947\u827a\u53ed\u55d2",
           "language": "zh-Hans",
           "homeUrl": "https://www.iqiyi.com/manhua"
         }
@@ -29660,7 +32403,7 @@
       "sources": [
         {
           "id": "6286738698187452081",
-          "name": "禁漫天堂",
+          "name": "\u7981\u6f2b\u5929\u5802",
           "language": "zh",
           "homeUrl": "https://18comic.vip",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29680,7 +32423,7 @@
       "sources": [
         {
           "id": "1520913911854846698",
-          "name": "92漫画",
+          "name": "92\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "http://www.92mh.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29720,7 +32463,7 @@
       "sources": [
         {
           "id": "8099870292642776005",
-          "name": "快看漫画",
+          "name": "\u5feb\u770b\u6f2b\u753b",
           "language": "zh-Hans",
           "homeUrl": "https://www.kuaikanmanhua.com"
         }
@@ -29778,7 +32521,7 @@
       "sources": [
         {
           "id": "1637952806167036168",
-          "name": "优酷漫画",
+          "name": "\u4f18\u9177\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://www.ykmh.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29798,7 +32541,7 @@
       "sources": [
         {
           "id": "7057750772596492765",
-          "name": "漫画柜",
+          "name": "\u6f2b\u753b\u67dc",
           "language": "zh",
           "homeUrl": "https://www.manhuagui.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29818,7 +32561,7 @@
       "sources": [
         {
           "id": "3616827811449702173",
-          "name": "漫画人",
+          "name": "\u6f2b\u753b\u4eba",
           "language": "zh",
           "homeUrl": "http://mangaapi.manhuaren.com"
         }
@@ -29837,7 +32580,7 @@
       "sources": [
         {
           "id": "6230622879116184108",
-          "name": "漫画社",
+          "name": "\u6f2b\u753b\u793e",
           "language": "zh",
           "homeUrl": "https://www.311s.com"
         }
@@ -29856,7 +32599,7 @@
       "sources": [
         {
           "id": "3279300917142951720",
-          "name": "漫画屋",
+          "name": "\u6f2b\u753b\u5c4b",
           "language": "zh",
           "homeUrl": "https://www.mhua5.com"
         }
@@ -29875,7 +32618,7 @@
       "sources": [
         {
           "id": "1795888684783606321",
-          "name": "漫蛙",
+          "name": "\u6f2b\u86d9",
           "language": "zh",
           "homeUrl": "https://manwa.me",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29895,7 +32638,7 @@
       "sources": [
         {
           "id": "7895725080195720063",
-          "name": "漫画1234",
+          "name": "\u6f2b\u753b1234",
           "language": "zh",
           "homeUrl": "https://m.wmh1234.com"
         }
@@ -29914,7 +32657,7 @@
       "sources": [
         {
           "id": "116946528518438525",
-          "name": "喵趣漫画",
+          "name": "\u55b5\u8da3\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://www.miaoqumh.org"
         }
@@ -29973,7 +32716,7 @@
       "sources": [
         {
           "id": "5768337869316468367",
-          "name": "哔咔漫画",
+          "name": "\u54d4\u5494\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://picaapi.picacomic.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -29993,7 +32736,7 @@
       "sources": [
         {
           "id": "3647420805839021718",
-          "name": "肉漫屋",
+          "name": "\u8089\u6f2b\u5c4b",
           "language": "zh",
           "homeUrl": "https://roum22.xyz",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -30013,7 +32756,7 @@
       "sources": [
         {
           "id": "392262758488714109",
-          "name": "如漫画",
+          "name": "\u5982\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://m.rumanhua2.com"
         }
@@ -30032,7 +32775,7 @@
       "sources": [
         {
           "id": "5183325399429659419",
-          "name": "六漫画",
+          "name": "\u516d\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://www.liumanhua.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -30052,7 +32795,7 @@
       "sources": [
         {
           "id": "6353436350537369479",
-          "name": "腾讯动漫",
+          "name": "\u817e\u8baf\u52a8\u6f2b",
           "language": "zh-Hans",
           "homeUrl": "https://m.ac.qq.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -30072,7 +32815,7 @@
       "sources": [
         {
           "id": "4585134706567717130",
-          "name": "泰拉记事社",
+          "name": "\u6cf0\u62c9\u8bb0\u4e8b\u793e",
           "language": "zh",
           "homeUrl": "https://comic.hypergryph.com"
         }
@@ -30091,9 +32834,29 @@
       "sources": [
         {
           "id": "5530823947742715441",
-          "name": "東立",
+          "name": "\u6771\u7acb",
           "language": "zh",
           "homeUrl": "https://ebook.tongli.com.tw",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "Toptoon.net",
+      "packageName": "eu.kanade.tachiyomi.extension.zh.toptoon",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-zh.toptoon-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.zh.toptoon.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "1680248666203661128",
+          "name": "TOPTOON\u9802\u901a",
+          "language": "zh",
+          "homeUrl": "https://www.toptoon.net",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -30130,7 +32893,7 @@
       "sources": [
         {
           "id": "6551136894818591762",
-          "name": "紳士漫畫",
+          "name": "\u7d33\u58eb\u6f2b\u756b",
           "language": "zh",
           "homeUrl": "https://www.wn05.ru#, https://www.wn04.ru#, https://www.wnacg05.cc",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -30150,7 +32913,7 @@
       "sources": [
         {
           "id": "2417676426413230210",
-          "name": "一耽女孩",
+          "name": "\u4e00\u803d\u5973\u5b69",
           "language": "zh",
           "homeUrl": "https://yidan1.club",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
@@ -30170,7 +32933,7 @@
       "sources": [
         {
           "id": "524579092615598717",
-          "name": "再漫画",
+          "name": "\u518d\u6f2b\u753b",
           "language": "zh",
           "homeUrl": "https://manhua.zaimanhua.com"
         }
@@ -30189,7 +32952,7 @@
       "sources": [
         {
           "id": "6466445276541048432",
-          "name": "杂志迷",
+          "name": "\u6742\u5fd7\u8ff7",
           "language": "zh",
           "homeUrl": "https://www.zazhimi.net"
         }
@@ -30208,7 +32971,7 @@
       "sources": [
         {
           "id": "8743284448117690086",
-          "name": "zero搬运网",
+          "name": "zero\u642c\u8fd0\u7f51",
           "language": "zh",
           "homeUrl": "http://www.zerobywai.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
