@@ -8,7 +8,7 @@ The skills speak in terms of two canonical category roles and six canonical stat
 | `enhancement` | `enhancement` | New feature or improvement |
 | `needs-triage` | `needs-triage` | Maintainer needs to evaluate |
 | `needs-info` | `needs-info` | Waiting on reporter for more information |
-| `needs-revision` | `needs-revision` | Useful start, but the author or assigned agent needs to revise, improve, add to, finish, or fold it into the right place. It must not imply maintainer finishes someone else's work. |
+| `needs-enrichment` | `needs-enrichment` | `needs-enrichment` means extend the attached diff from where it is. The next note should say what to build, prove, deepen, or make concrete. It must not ask the author to reduce, reject, fold away, relocate, or justify the work’s existence. |
 | `ready-for-agent` | `ready-for-agent` | Fully specified, ready for an AFK agent |
 | `ready-for-human` | `ready-for-human` | Pair-ready: an agent can work it, but a human should be present for decisions, discussion, access, or checks that cannot be handled AFK |
 | `wontfix` | `wontfix` | Will not be actioned |
