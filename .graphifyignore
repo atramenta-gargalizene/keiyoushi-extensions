@@ -1,0 +1,6 @@
+# Local tool/runtime state
+.codex/
+.git/
+
+# Generated Graphify outputs
+graphify-out/
